@@ -38,3 +38,20 @@ multiple lines of code
 *Image from URL*
 !['Peonies bouquet','Pink peonies bouquet in a vase'](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
 
+!['Peonies bouquet','Pink peonies bouquet in a vase'](/peony.jpg)
+ 
+*This is a link* <br> 
+[Google](https://www.google.com/)
+ 
+*This is a blockquote*
+
+In the wise words of Blackstreet from "No Diggity":
+
+> Shawty get down<br>
+> Good Lord
+ 
+Easy Markdown table generator:
+[TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables) 
+
+ 
+ 
